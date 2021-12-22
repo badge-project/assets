@@ -18,7 +18,7 @@
       "address": "0x1cD68fc614AbD785190957569B1eE5bEd413D95D",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/badge-project/assets/main/docs/icon/badge.png"
+      "logoURI": "https://raw.githubusercontent.com/badge-project/assets/main/docs/icon/edge.png"
     },
     {
       "name": "BADGE Token",
@@ -26,7 +26,7 @@
       "address": "0x09c5a4ef1629789f2f003f1e66cac2becc9897d4",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/badge-project/assets/main/docs/icon/edge.png"
+      "logoURI": "https://raw.githubusercontent.com/badge-project/assets/main/docs/icon/badge.png"
     }
   ]
 }
