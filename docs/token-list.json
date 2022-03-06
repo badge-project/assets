@@ -21,6 +21,14 @@
       "logoURI": "https://raw.githubusercontent.com/badge-project/assets/main/docs/icon/edge.png"
     },
     {
+      "name": "POME Token",
+      "symbol": "POME",
+      "address": "0x09c5a4ef1629789f2f003f1e66cac2becc9897d4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/badge-project/assets/main/docs/icon/pome.png"
+    }
+    {
       "name": "BADGE Token",
       "symbol": "BADGE",
       "address": "0x09c5a4ef1629789f2f003f1e66cac2becc9897d4",
