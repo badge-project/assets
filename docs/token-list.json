@@ -23,7 +23,7 @@
     {
       "name": "POME Token",
       "symbol": "POME",
-      "address": "0x09c5a4ef1629789f2f003f1e66cac2becc9897d4",
+      "address": "0x25580Cad728b4ce4201d485D199553481BD322A6",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/badge-project/assets/main/docs/icon/pome.png"
